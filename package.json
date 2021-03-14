@@ -1,0 +1,27 @@
+{
+  "name": "css-lib",
+  "version": "1.0.0",
+  "description": "lib modules html css",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch btn/style.scss btn/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huutcha/css-lib.git"
+  },
+  "keywords": [
+    "css",
+    "scss"
+  ],
+  "author": "huudinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huutcha/css-lib/issues"
+  },
+  "homepage": "https://github.com/huutcha/css-lib#readme",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}
